@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java,Python,MERN,C**
 
-- 📫 How to reach me **ravikantrathod143@gmail.com**
+- 📫 How to reach me **ravikantrathod01207@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1auDtsfZhTYktpq0bUHU_bEPTZJMptRzQ/view?usp=drivesdk](https://drive.google.com/file/d/1auDtsfZhTYktpq0bUHU_bEPTZJMptRzQ/view?usp=drivesdk)
 
