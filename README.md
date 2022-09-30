@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ravikan70137875" target="blank"><img src="https://img.shields.io/twitter/follow/ravikan70137875?logo=twitter&style=for-the-badge" alt="ravikan70137875" /></a> </p>
 
-- 🔭 I’m currently working on **to build the website for Pepcoding pvt ltd **
+- 🔭 I’m currently working on **to build the website**
 
 - 🌱 I’m currently learning **DEVOPS**
 
