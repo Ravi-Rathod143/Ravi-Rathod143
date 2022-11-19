@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **to build the website**
 
-- 🌱 I’m currently learning **DEVOPS**
+- 🌱 I’m currently learning **BIG DATA**
 
 - 💬 Ask me about **Java,Python,MERN,C**
 
