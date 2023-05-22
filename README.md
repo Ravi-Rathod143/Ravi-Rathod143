@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ravikantrathod01207@gmail.com**
 
-- 📄 Know about my experiences resume is here [(https://drive.google.com/file/d/1auDtsfZhTYktpq0bUHU_bEPTZJMptRzQ/view?usp=drivesdk)](https://drive.google.com/file/d/1G5rRKjzwB7U-5x9ujg5YRmjmFE2TSVYU/view?usp=sharing)
+- 📄 Know about my experiences resume is here [(https://drive.google.com/file/d/15kg0icb3qxWDtnEtMWlXbZFpD-XzWPeX/view)](https://drive.google.com/file/d/15kg0icb3qxWDtnEtMWlXbZFpD-XzWPeX/view)
 
 - ⚡ Fun fact **I am funny**
 
